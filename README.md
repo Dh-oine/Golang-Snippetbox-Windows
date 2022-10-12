@@ -24,3 +24,6 @@ GRANT SELECT, INSERT ON snippetbox.* TO 'web'@'localhost';
 -- Important: Make sure to swap 'pass' with a password of your own choosing. 
 ALTER USER 'web'@'localhost' IDENTIFIED BY 'pass';
 Then use this commands in your terminal window: "cd $HOME/.../snippetbox/cmd/web" and "go run .".
+![image](https://user-images.githubusercontent.com/111253883/195339439-e79b252b-7d15-4afa-9605-a3cf64518e9f.png)
+![image](https://user-images.githubusercontent.com/111253883/195339515-54c0c87e-3a95-4d5b-af24-78bd93c42b69.png)
+![image](https://user-images.githubusercontent.com/111253883/195339682-e2a13dd5-b6e3-44e4-ad48-bb1ed66bfac6.png)
